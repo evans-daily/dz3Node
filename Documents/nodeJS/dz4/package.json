@@ -1,0 +1,14 @@
+{
+  "name": "dz4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "dz4first"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
